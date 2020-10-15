@@ -1,0 +1,44 @@
+*{
+	padding: 5px;
+	margin: 5px;
+	background-image: url("imagenes/fondo.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+.form{
+	padding: 0px;
+	box-shadow: 8px 8px 8px 8px;
+	width: 380px;
+	height: 360px;
+	border: 5px;
+	align-content: center;
+	color: white;
+	background-color: white;
+	border-color: white;
+
+}
+.p_container{
+	font-family: sans-serif;
+	text-align: center;
+	color: white;
+}
+.text{
+	padding: 5px;
+	background-color: white;
+	color: white;
+	font-size: 18px;
+
+}
+input[type="usuario"]{
+	color: white;
+	border-color: white;
+}
+input[type="password"]{
+	color: white;
+	border-color: white;
+}
+input[type="button"]{
+	color: white;
+	border-color: white;
+	background-color: white;
+}
